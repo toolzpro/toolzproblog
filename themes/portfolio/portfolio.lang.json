@@ -1,0 +1,49 @@
+{
+	"partials": {
+		"cookiebar": {
+			"close": "Закрыть"
+		},
+		"disqus": {
+			"noscript1": "Чтобы оставлять и читать комментарии, нужно включить javasсript",
+			"noscript2": "Используются комментарии Disqus"
+		},
+		"menu": {
+			"label": "Меню"
+		},
+		"pagination": {
+			"prev": "Раньше",
+			"next": "Позже"
+		},
+		"shareButtons": {
+			"shareWithFacebook": "Подеться на Facebook",
+			"shareWithTwitter": "Твитнуть",
+			"shareWithTelegram": "Телеграфировать в Телеграм",
+			"shareWithGooglePlus": "Плюсануть на Google +",
+			"shareWithPinterest": "Сохранить на Pinterest",
+			"shareWithStumbleUpon": "StumbleUpon",
+			"shareWithLinkedIn": "LinkedIn",
+			"shareWithBuffer": "Buffer"
+		}
+	},
+	"slider": {
+		"button": "Читать",
+		"slide": "Слайд %s"
+	},
+	"post": {
+		"publishedBy": "Автор",
+		"publishedOn": "Опубликовано",
+		"previousPost": "Раньше",
+		"nextPost": "Позже"
+	},
+	"common": {
+		"readmore": "Читать"
+	},
+	"error": {
+		"404": "404",
+		"message": "Упс, похоже страница удалена, перемещена. Но здесь много всего интересного :)"
+	},
+	"search": {
+		"placeholder": "Я ищу",
+        "title": "Найти"
+    }
+}

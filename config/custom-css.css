@@ -1,0 +1,14 @@
+/*
+ * Put your custom CSS code here
+ */
+a.logo{
+    padding-top: 0px;
+    width: 100px;
+}
+@media all and (min-width:56.25em) {
+    .post-nav {
+        bottom: calc(100vh - 68vh);
+              padding-top: 3px;
+    padding-bottom: 40px;
+}
+

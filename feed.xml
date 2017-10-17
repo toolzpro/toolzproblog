@@ -3,12 +3,32 @@
     <title>toolz</title>
     <link href="https://toolz.pro/feed.xml" rel="self" />
     <link href="https://toolz.pro" />
-    <updated>2017-10-12T21:41:46+03:00</updated>
+    <updated>2017-10-17T21:26:54+03:00</updated>
     <author>
         <name>Все статьи</name>
     </author>
     <id>https://toolz.pro</id>
 
+    <entry>
+        <title>8 Альтернатив Дропбоксу, где можно получить бесплатно 50 ГБ и даже больше</title>
+        <author>
+            <name>Все статьи</name>
+        </author>
+        <link href="https://toolz.pro/8-alternativ-dropboksu-gde-poluchit-besplatno-50-gb/"/>
+        <id>https://toolz.pro/8-alternativ-dropboksu-gde-poluchit-besplatno-50-gb/</id>
+            <category term="Сервисы"/>
+            <category term="Процессы"/>
+            <category term="Продуктивность"/>
+
+        <updated>2017-10-17T21:06:03+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://toolz.pro/media/posts/16/cloud20172x.png" alt="" />
+                    Облаков много не бывает. Места на них &mdash; тоже. Дропбокс начинает трещать по швам?&nbsp;Делюсь, где дают&nbsp;много&nbsp;бесплатных гигабайт и даже терабайт&nbsp;облачного пространства.&nbsp;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Как создать свой блог быстро и бесплатно: обзор Publii</title>
         <author>
@@ -20,7 +40,7 @@
             <category term="Вордпресс"/>
             <category term="Publii"/>
 
-        <updated>2017-10-12T21:41:39+03:00</updated>
+        <updated>2017-10-13T16:52:08+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://toolz.pro/media/posts/15/publii2x.png" alt="" />
@@ -157,7 +177,7 @@
             <category term="Для блогов"/>
             <category term="Дизайн"/>
 
-        <updated>2017-09-22T20:39:37+03:00</updated>
+        <updated>2017-10-17T21:06:28+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://toolz.pro/media/posts/8/favicon-instrukciya2x.png" alt="" />
@@ -180,26 +200,6 @@
                 <![CDATA[
                         <img src="https://toolz.pro/media/posts/7/iphone-x-test2x.png" alt="" />
                     iPhone X &mdash;&nbsp;нестандартен по всем параметрам. Как будет выглядеть ваш сайт или видео на его экране? Некоторые предполагают, что выступ&nbsp;на iPhone X может немного&nbsp;раздражать&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Настройка DNS домена: как переопределить ns-записи за 15 минут</title>
-        <author>
-            <name>Все статьи</name>
-        </author>
-        <link href="https://toolz.pro/nastroyka-dns-domena-kak-pereopredelit-ns-zapisi-za-15-minut/"/>
-        <id>https://toolz.pro/nastroyka-dns-domena-kak-pereopredelit-ns-zapisi-za-15-minut/</id>
-            <category term="Разработка"/>
-            <category term="Продуктивность"/>
-            <category term="Для блогов"/>
-
-        <updated>2017-09-26T23:33:58+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://toolz.pro/media/posts/6/dns-force2x.png" alt="" />
-                    Перезапись DNS может длиться до 72 часов. Остается только&nbsp;ждать. А если ждать не хочется, в наших силах ускорить процесс.
                 ]]>
             </summary>
         <content></content>

@@ -1,0 +1,179 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "toolz",
+    "description": "",
+    "home_page_url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview",
+    "feed_url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/feed.json",
+    "user_comment": "",
+    "icon": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/website/toolzpro.svg",
+    "author": {
+        "name": "Все статьи"
+    },
+    "items": [
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/8-alternativ-dropboksu-gde-poluchit-besplatno-50-gb/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/8-alternativ-dropboksu-gde-poluchit-besplatno-50-gb/index.html",
+            "title": "8 Альтернатив Дропбоксу, где можно получить бесплатно 50 ГБ и даже больше",
+            "summary": "Облаков много не бывает. Места на них &mdash; тоже. Дропбокс начинает трещать по швам?&nbsp;Делюсь, где дают&nbsp;много&nbsp;бесплатных гигабайт и даже терабайт&nbsp;облачного пространства.&nbsp;",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/16/cloud20172x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Сервисы",
+                   "Процессы",
+                   "Продуктивность"
+            ],
+            "date_published": "2017-10-17T07:02:12+03:00",
+            "date_modified": "2017-10-17T21:06:03+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/kak-sozdat-blog-bystro-i-besplatno-obzor-publii/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/kak-sozdat-blog-bystro-i-besplatno-obzor-publii/index.html",
+            "title": "Как создать свой блог быстро и бесплатно: обзор Publii",
+            "summary": "Лёгкий, современный, красивый, безопасный блог. Без единой строчки кода и&nbsp;плагинов. Бесплатно. В&nbsp;чём подвох Publii?",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/15/publii2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Для блогов",
+                   "Вордпресс",
+                   "Publii"
+            ],
+            "date_published": "2017-10-12T18:00:08+03:00",
+            "date_modified": "2017-10-13T16:52:08+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/vykinte-tz-ili-kak-rabotat-s-klientom-po-agile/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/vykinte-tz-ili-kak-rabotat-s-klientom-po-agile/index.html",
+            "title": "«Выкиньте ТЗ!» или как работать с клиентом по Agile",
+            "summary": "Каждый раз, когда мне в руки попадает такой архаизм, как ТЗ, я понимаю, что потрачу кучу времени на его чтение и ещё в 2 раза больше на то, чтобы накатать комментарии. Знакомо? Бесит? Клиента, которому это пришлось писать, хотя это вовсе не его профиль &mdash; тоже. Пора уже бороться с этим архаизмом, который мешает разрабатывать идеальные&nbsp;продукты для прекрасных&nbsp;клиентов.",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/14/vykinut-tz2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Разработка",
+                   "Процессы",
+                   "Продуктивность",
+                   "agile"
+            ],
+            "date_published": "2017-10-11T00:44:23+03:00",
+            "date_modified": "2017-10-12T01:23:10+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/kak-bystro-sdelat-lending-chast-3/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/kak-bystro-sdelat-lending-chast-3/index.html",
+            "title": "Кейс: как сделать лендинг под ключ за 2 дня. Часть III ",
+            "summary": "О&nbsp;публикации лендинга на Netlify и полезных фичах сервиса, которые пригодятся при работе с лендингами",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/13/netlify2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Лендинги",
+                   "Кейсы"
+            ],
+            "date_published": "2017-10-01T04:33:47+03:00",
+            "date_modified": "2017-10-08T12:12:28+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/kak-bystro-sdelat-lending-chast-2/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/kak-bystro-sdelat-lending-chast-2/index.html",
+            "title": "Кейс: как сделать лендинг под ключ за 2 дня. Часть II",
+            "summary": "Продолжение кейса: настройка СЕО&nbsp;и экспорт из Webflow",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/12/cov-case-part2-copy2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Лендинги",
+                   "Кейсы"
+            ],
+            "date_published": "2017-09-30T19:55:34+03:00",
+            "date_modified": "2017-10-11T18:45:08+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/lending-peydzh-pod-klyuch-za-paru-dney/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/lending-peydzh-pod-klyuch-za-paru-dney/index.html",
+            "title": "Кейс: как сделать лендинг под ключ за 2 дня",
+            "summary": "Иногда дедлайны &mdash; отличный повод еще больше оптимизировать&nbsp;рабочие&nbsp;процессы и внедрить новые инструменты. Кейс о том, как за 2 дня сделать статический, оптимизированный, нешаблоный &nbsp;и подготовленный к продвижению лендинг для сложного продукта.",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/11/cov-landing-case-part12x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Лендинги",
+                   "Кейсы",
+                   "Дизайн"
+            ],
+            "date_published": "2017-09-29T00:56:03+03:00",
+            "date_modified": "2017-10-02T01:21:04+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/keys-kak-sdelat-lending-za-2-dnya-chast-4/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/keys-kak-sdelat-lending-za-2-dnya-chast-4/index.html",
+            "title": "Кейс: как сделать лендинг под ключ за 2 дня. Часть IV ",
+            "summary": "Заключительная&nbsp;часть кейса: о том как ускорить лендинг&nbsp;по максимуму, ориентируясь на оценку Google PageSpeed и его же рекомендации",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/10/page-speed2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Разработка",
+                   "Кейсы"
+            ],
+            "date_published": "2017-09-27T05:24:18+03:00",
+            "date_modified": "2017-10-11T18:45:22+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/webcatalog-kak-iz-sayta-sdelat-prilozhenie-dlya-rabochego-stola/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/webcatalog-kak-iz-sayta-sdelat-prilozhenie-dlya-rabochego-stola/index.html",
+            "title": "WebCatalog: как из сайта сделать приложение для рабочего стола",
+            "summary": "Мы уже привыкли к тому, что большинство сервисов находятся в облаках и доступны&nbsp;из браузера с любого устройства. Сложно подумать, что раньше вся информация хранилась на одном комьютере, не было возможностей совместного редактирования и прочих облачных преимуществ. Однако, один минус у полного переезда в облака все-таки имеется: куча вкладок браузеров и постоянная путаница с ними. Но теперь об этом минусе можно забыть.",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/9/webcatlog2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Сервисы",
+                   "Продуктивность"
+            ],
+            "date_published": "2017-09-26T22:06:25+03:00",
+            "date_modified": "2017-10-12T19:14:16+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/favikon-onlayn-luchshiy-generator-ikonok-pod-vse-ustroystva/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/favikon-onlayn-luchshiy-generator-ikonok-pod-vse-ustroystva/index.html",
+            "title": "Фавикон онлайн: лучший генератор иконок под все устройства",
+            "summary": "Как сделать правильный фавикон быстро&nbsp;и где проверить,&nbsp;как выглядит сейчас иконка сайта на любом устройстве Фавикон &mdash; это уже не просто один файл 16х16. Чтобы&hellip;",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/8/favicon-instrukciya2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Разработка",
+                   "Для блогов",
+                   "Дизайн"
+            ],
+            "date_published": "2017-09-22T20:03:15+03:00",
+            "date_modified": "2017-10-17T21:06:28+03:00"
+        },
+        {
+            "id": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/testiruem-sayty-i-video-na-iphone-x/index.html",
+            "url": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/testiruem-sayty-i-video-na-iphone-x/index.html",
+            "title": "Тестируем сайты и видео на iPhone X",
+            "summary": "iPhone X &mdash;&nbsp;нестандартен по всем параметрам. Как будет выглядеть ваш сайт или видео на его экране? Некоторые предполагают, что выступ&nbsp;на iPhone X может немного&nbsp;раздражать&hellip;",
+            "image": "file:///Users/darrrinabook/Documents/Publii/sites/toolz/preview/media/posts/7/iphone-x-test2x.png",
+            "author": {
+                "name": "Все статьи"
+            },
+            "tags": [
+                   "Сервисы"
+            ],
+            "date_published": "2017-09-22T19:51:33+03:00",
+            "date_modified": "2017-10-01T05:17:36+03:00"
+        }
+    ]
+}
